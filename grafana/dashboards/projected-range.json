@@ -209,7 +209,7 @@
           "label": "Projected Range",
           "logBase": 1,
           "max": null,
-          "min": "200",
+          "min": null,
           "show": true
         },
         {
